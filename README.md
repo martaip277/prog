@@ -1,4 +1,4 @@
-"# prog" 
-"A¤adiendo una modificaci¢n para la prueba" 
-# Esto causara el conflicto 
-# Esto causar  el conflicto 
+# prog
+Añadiendo una modificación para la prueba
+# Esto causará el conflicto
+# cambiando desde la web
