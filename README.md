@@ -1,2 +1,3 @@
 "# prog" 
-"A¤adiendo una modificaci¢n para la prueba" 
+"AÂ¤adiendo una modificaciÂ¢n para la prueba" 
+#esto debe dar un conflicto
